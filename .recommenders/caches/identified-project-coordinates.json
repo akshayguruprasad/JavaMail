@@ -1,0 +1,1 @@
+[[{"location":"/usr/lib/jvm/java-8-oracle","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"J2SE-1.5"}},"jre:jre:1.5.0"],[{"location":"/home/bridgeit/.m2/repository/javax/mail/mail/1.4/mail-1.4.jar","type":"JAR","hints":{}},"ABSENT"],[{"location":"/home/bridgeit/WorkSpace/JavaMail/Mailingapp","type":"PROJECT","hints":{"PROJECT_NAME":"Mailingapp"}},"com.indreams:Mailingapp:0.0.1"]]
